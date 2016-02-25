@@ -16,7 +16,6 @@ int main()
     }
     for(i=0;i<6;i++){
         printf("%s\n", table[i]);
-        printf("%s\n", typeof(table));
     }
     
     return 0;
